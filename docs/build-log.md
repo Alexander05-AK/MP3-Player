@@ -1,6 +1,6 @@
 # Build Log
 
-## Phase 1 — Breadboard Prototype ✅
+## Phase 1 - Breadboard Prototype 
 
 ### What was built
 - Raspberry Pi Pico running MicroPython
