@@ -21,7 +21,7 @@
 DFPlayer TX outputs 5V logic. Pico GPIO max is 3.3V.
 This divider drops it to a safe level.
 
-Output = 5V × (2kΩ / 3kΩ) = 3.33V ✅
+Output = 5V × (2kΩ / 3kΩ) = 3.33V 
 
 ## SD Card Requirements
 
